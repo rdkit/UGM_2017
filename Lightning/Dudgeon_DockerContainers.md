@@ -2,17 +2,15 @@
 
 Using containers makes using RDKit easier and makes results easier to reproduce.
 
-Example of how to
-
 ## Informatics Matters Images
 
 Images of various RDKit releases since 2015. Docker images are built semi-autmoatically.
 
 Basic RDKit build: [GitHub](https://github.com/InformaticsMatters/rdkit) [DockerHub](https://hub.docker.com/r/informaticsmatters/rdkit/)
 RDKit + Java bindings: [Github](https://github.com/InformaticsMatters/rdkit_java) [DockerHub](https://hub.docker.com/r/informaticsmatters/rdkit_java/)
-RDKit + Java + Tomcat: [GitHub](https://github.com/InformaticsMatters/rdkit_java_tomcat) [DokerHub](https://hub.docker.com/r/informaticsmatters/rdkit_java_tomcat/)
-RDKit PostgreSQL cartridge: [GitHub](https://github.com/InformaticsMatters/rdkit_cartridge) [DokerHub](https://hub.docker.com/r/informaticsmatters/rdkit_cartridge/)
-RDKit + Pipelines: [GitHub](https://github.com/InformaticsMatters/pipelines) [DokerHub](https://hub.docker.com/r/informaticsmatters/rdkit_pipelines/)
+RDKit + Java + Tomcat: [GitHub](https://github.com/InformaticsMatters/rdkit_java_tomcat) [DockerHub](https://hub.docker.com/r/informaticsmatters/rdkit_java_tomcat/)
+RDKit PostgreSQL cartridge: [GitHub](https://github.com/InformaticsMatters/rdkit_cartridge) [DockerHub](https://hub.docker.com/r/informaticsmatters/rdkit_cartridge/)
+RDKit + Pipelines: [GitHub](https://github.com/InformaticsMatters/pipelines) [DockerHub](https://hub.docker.com/r/informaticsmatters/rdkit_pipelines/)
 
 Example of how to use:
 
